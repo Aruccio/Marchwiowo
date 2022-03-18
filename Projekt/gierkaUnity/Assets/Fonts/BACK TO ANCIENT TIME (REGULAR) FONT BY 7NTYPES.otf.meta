@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 734211cd23b7dc2438182a6995dfc93d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BACK TO ANCIENT TIME
+  fontNames:
+  - BACK TO ANCIENT TIME
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3ed9aadca965acc4ab62dea900ec5a0b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

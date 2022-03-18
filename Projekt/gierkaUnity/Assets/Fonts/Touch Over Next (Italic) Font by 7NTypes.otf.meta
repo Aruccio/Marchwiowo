@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 849c249b53f244542892e6fc806321ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Touch Over Next
+  fontNames:
+  - Touch Over Next
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01138fc14ba072f46a789f818592facd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
